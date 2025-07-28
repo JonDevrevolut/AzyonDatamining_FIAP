@@ -156,10 +156,10 @@ O resultado é uma classificação em faixas de risco (baixo, moderado, alto, mu
 
 | Recurso               | Imagem Estática                        |
 | --------------------- | -------------------------------------- |
-| Power BI Dashboard | <img width="1008" height="574" alt="Image" src="https://github.com/user-attachments/assets/7da2dc4f-ccb4-4613-a96b-7f6f097379a0" /> |
-| MLflow Tracking    | <img width="1171" height="565" alt="Image" src="https://github.com/user-attachments/assets/b4b524e2-ad05-492a-afe0-91d559aa9c3c" /> |
-| DAGs Airflow      | <img width="1227" height="516" alt="Image" src="https://github.com/user-attachments/assets/48dd83d5-4e2b-47e3-82c5-cba279265c61" /> |
-| E-mail de Alerta   | <img width="527" height="634" alt="Image" src="https://github.com/user-attachments/assets/7643a5b7-7689-4bff-b6dc-50bc8402ecc6" /> |
+| Power BI Dashboard | <img width="1008" height="574" alt="Image" src="https://github.com/user-attachments/assets/cba0606e-b6bc-41e5-9ac2-4c237811fc43" /> |
+| MLflow Tracking    | <img width="1171" height="565" alt="Image" src="https://github.com/user-attachments/assets/ef761563-5448-4d63-9e63-03c4f4cce7b7" /> |
+| DAGs Airflow      | <img width="1227" height="516" alt="Image" src="https://github.com/user-attachments/assets/2b264fe3-fa83-40d2-b699-071a4b7cf97b" /> |
+| E-mail de Alerta   | <img width="527" height="634" alt="Image" src="https://github.com/user-attachments/assets/8ed9539b-e48b-42c1-8e37-4d6456e5bb04" /> |
 
 ---
 
@@ -304,4 +304,4 @@ volumes:
 
 ---
 > 📦 Projeto original disponível em:
-<img width="1150" height="648" alt="Image" src="https://github.com/user-attachments/assets/c125b29d-4053-40ac-84fc-3cc760566a06" /> (https://github.com/AzyonDatamining/Azyon))
+<img width="1150" height="648" alt="Image" src="https://github.com/user-attachments/assets/fc41ec9d-b54c-4f60-ae93-7c86770cd0ae" /> (https://github.com/AzyonDatamining/Azyon))
