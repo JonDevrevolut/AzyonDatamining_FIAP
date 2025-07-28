@@ -297,7 +297,8 @@ volumes:
 ```
 ---
 
-> ℹ️ **Este projeto foi desenvolvido com base no conteúdo prático do Global Solution aplicado pela FIAP – 1º Semestre de Data Science**,  
+> ℹ️ **Este projeto foi selecionado como a melhor ideação, no Desafio PROTECH THE FUTURE! 
+> Desenvolvido com base no conteúdo prático do Global Solution aplicado pela FIAP – 1º Semestre de Data Science**,  
 > com os integrantes: **Caio Palermo**, **Iago Campos** e **Jonathan Moreira** (*eu mesmo 😄*).
 
 #### 📁 **Todos os arquivos com códigos e sintaxes utilizadas estão organizados neste repositório. Explore os diretórios para ver os pipelines e scripts!**
